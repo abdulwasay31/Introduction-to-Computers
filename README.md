@@ -46,3 +46,31 @@ Personal computers are designed for individual users. Common examples include de
 ### 4. Mobile Computers
 
 Mobile computers include smartphones and tablets. They are portable and can perform many computing tasks while allowing users to work from different locations.
+
+## History of Computers
+
+The development of computers has taken place over many stages.
+
+### Early Computing
+
+Early civilizations used simple tools such as the abacus to perform calculations.
+
+### Mechanical Computers
+
+Mechanical computing devices were developed to perform mathematical calculations using mechanical components.
+
+### First Generation
+
+First-generation electronic computers used vacuum tubes. They were very large, expensive, and consumed a great deal of electricity.
+
+### Second Generation
+
+Transistors replaced vacuum tubes, making computers smaller, faster, and more reliable.
+
+### Third Generation
+
+Integrated circuits allowed multiple electronic components to be placed on a single chip, further reducing the size of computers and improving their performance.
+
+### Modern Computers
+
+Modern computers use advanced processors, large storage systems, networking technologies, and sophisticated software. Computers are now used in almost every area of modern life.
